@@ -1,0 +1,1 @@
+1. print  "hello"  # python2可正常输出,python3报语法错误
