@@ -3,8 +3,7 @@
 使用tkinter创建GUI
 - 在窗口上制作动画
 
-Version: 0.1
-Author: 骆昊
+
 Date: 2018-03-14
 
 """

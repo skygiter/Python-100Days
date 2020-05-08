@@ -1,8 +1,7 @@
 """
 套接字 - 基于UDP协议创建Echo客户端
 
-Version: 0.1
-Author: 骆昊
+
 Date: 2018-03-22
 """
 

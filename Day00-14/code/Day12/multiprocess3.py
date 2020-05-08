@@ -1,9 +1,7 @@
 """
 创建进程调用其他程序
 
-Version: 0.1
-Author: 骆昊
-Date: 2018-03-20
+
 """
 
 import subprocess

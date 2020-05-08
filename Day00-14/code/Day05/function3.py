@@ -6,8 +6,7 @@ Python的内置函数
 - 数据结构: dict / list / set / tuple
 - 其他函数: all / any / id / input / open / print / type
 
-Version: 0.1
-Author: 骆昊
+
 Date: 2018-03-05
 """
 

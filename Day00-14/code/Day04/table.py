@@ -1,9 +1,6 @@
 """
 输出乘法口诀表(九九表)
 
-Version: 0.1
-Author: 骆昊
-Date: 2018-03-02
 """
 
 for i in range(1, 10):

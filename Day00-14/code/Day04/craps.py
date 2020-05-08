@@ -7,9 +7,6 @@ Craps赌博游戏
 否则游戏继续 玩家继续摇色子
 玩家进入游戏时有1000元的赌注 全部输光游戏结束
 
-Version: 0.1
-Author: 骆昊
-Date: 2018-03-02
 """
 from random import randint
 

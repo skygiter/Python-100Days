@@ -1,6 +1,7 @@
 ## Python - 100天从入门到大师
 
 > 作者：孙凯
+> 项目源于 https://github.com/jackfrued/Python-100-Days.git  作者：骆昊
 
 
 ### Python应用领域和就业形势分析
@@ -30,19 +31,12 @@
 - Python爬虫工程师
 - Python聊天机器人开发 / 图像识别和视觉算法 / 深度学习工程师
 
-下图显示了主要城市Python招聘需求量及薪资待遇排行榜（截止到2018年5月）。
-
-![Python招聘需求及薪资待遇Top 10](./res/python-top-10.png)
-
-![](./res/python-bj-salary.png)
-
-![](./res/python-salary-chengdu.png)
 
 给初学者的几个建议：
 
-- Make English as your working language.
-- Practice makes perfect.
-- All experience comes from mistakes.
+- Make English as your working language.  // 工作时用英语
+- Practice makes perfect.  // 练习早就完美
+- All experience comes from mistakes. // 经验来源于犯错
 - Don't be one of the leeches.  // 别做伸手党
 - Either stand out or kicked out. // 要么脱颖而出要么落伍
 

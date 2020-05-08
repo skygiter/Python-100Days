@@ -1,9 +1,5 @@
 """
 英制单位英寸和公制单位厘米互换
-
-Version: 0.1
-Author: 骆昊
-Date: 2018-02-28
 """
 
 value = float(input('请输入长度: '))

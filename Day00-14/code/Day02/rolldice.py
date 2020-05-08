@@ -1,8 +1,7 @@
 """
 掷骰子决定做什么事情
 
-Version: 0.1
-Author: 骆昊
+
 Date: 2018-02-28
 """
 from random import randint

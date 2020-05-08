@@ -1,8 +1,7 @@
 """
 读写二进制文件
 
-Version: 0.1
-Author: 骆昊
+
 Date: 2018-03-13
 """
 import base64

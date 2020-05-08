@@ -1,9 +1,7 @@
 """
 多个线程共享数据 - 有锁的情况
 
-Version: 0.1
-Author: 骆昊
-Date: 2018-03-20
+
 """
 
 import time

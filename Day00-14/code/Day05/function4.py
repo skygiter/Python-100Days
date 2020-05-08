@@ -10,8 +10,7 @@ Python常用模块
 - Web编程相关模块: cgi / webbrowser
 - 数据处理和编码模块: base64 / csv / html.parser / json / xml / ...
 
-Version: 0.1
-Author: 骆昊
+
 Date: 2018-03-05
 """
 
