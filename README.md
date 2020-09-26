@@ -1,7 +1,6 @@
 ## Python - 100天从入门到大师
 
-> 作者：孙凯
-> 项目源于 https://github.com/jackfrued/Python-100-Days.git  作者：骆昊
+*项目源于 https://github.com/jackfrued/Python-100-Days.git  作者：骆昊*
 
 
 ### Python应用领域和就业形势分析

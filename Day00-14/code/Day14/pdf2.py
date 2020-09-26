@@ -1,13 +1,10 @@
 """
 读取PDF文件
-
-
-Date: 2018-03-26
 """
 
 from PyPDF2 import PdfFileReader
 
-with open('./res/Python课程大纲.pdf', 'rb') as f:
+with open('./res/Docker入门教程.pdf', 'rb') as f:
     reader = PdfFileReader(f, strict=False)
     print(reader.numPages)
     if reader.isEncrypted:
